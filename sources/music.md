@@ -17,6 +17,6 @@ pagetitle: Music | C.B. Aberlé
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3240324870/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/track/orchestral-sketch-aurora">Orchestral Sketch - Aurora by C.B. Aberlé</a></iframe>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2829480644/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/track/orchestral-sketch-leviathan">Orchestral Sketch - Leviathan by C.B. Aberlé</a></iframe>
 
-![](orn64.png){width=40px class="leafornament"}
+![](img/leaf-ornament.png){width=40px class="leafornament"}
 
 </div>
