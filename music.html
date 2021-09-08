@@ -6,289 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Music | C.B. Aberlé</title>
   <style>
-    html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      word-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 1em;
-      }
-    }
-    @media print {
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
-      font-size: 85%;
-      margin: 0;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
+  <link rel="stylesheet" href="styles/default.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-  <link rel="preconnect" href="https://fonts.gstatic.com"> 
-  <link href="https://fonts.googleapis.com/css2?family=Astloch&family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&family=Texturina&display=swap" rel="stylesheet">
-  <style>
-  html {
-  	font-family: 'crimson text', serif;
-  	background-color: #16161b;
-  	color: #fafafa;
-  }
-
-  body {
-  	background-color: #fafafa;
-  	color: #2b2d3a;
-  	padding: 0;
-  	max-width: 100%;
-  	text-align: justify;
-  }
-
-  @media (max-width: 600px) {
-  	body {
-  		font-size: 1em;
-  		padding: 0;
-  	}
-  }
-
-  @media (max-width: 400px) {
-  	body {
-  		font-size: 0.9em;
-  		padding: 0;
-  	}
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-  	font-family: 'texturina', serif;
-  }
-
-  h1, h2 {
-  	text-align: center;
-  }
-
-  hr {
-  	background-color: #16161b;
-  	border-radius: 1px;
-  }
-
-  .title {
-  	margin: 0.5em 0;
-  }
-
-  #title-block-header {
-  	margin: 0 0 1em 0;
-  }
-
-  #mainbody a:link, #mainbody a:visited {
-  	color: #2b5aba;
-  	font-weight: 700;
-  	text-decoration: none;
-  }
-
-  #mainbody a:hover {
-  	text-decoration: underline;
-  }
-
-  #header {
-  	background-color: #16161b;
-  	color: #fafafa;
-  	padding: 0.6em;
-  }
-
-  #logo {
-  	font-family: 'astloch', cursive;
-  	margin: 0;
-  	text-align: center;
-  }
-
-  #mainmenu ul {
-  	margin: 0 auto;
-  	list-style-type: none;
-  	padding-left: 0;
-  	text-align: center;
-  }
-
-  #mainmenu ul li {
-  	display: inline-block;
-  	padding: 0 0.6em;
-  }
-
-  #mainmenu ul li a {
-  	color: #fafafa;
-  	text-decoration: none;
-  }
-
-  #mainmenu ul li a:hover {
-  	text-decoration: underline;
-  }
-
-  #footer {
-  	padding: 0.6em;
-  	background-color: #16161b;
-  	color: #fafafa;
-  	text-align: center;
-  }
-
-  #mainbody {
-  	max-width: 27em;
-  	margin: 0 auto;
-  	padding: 0.4em 2em 1em 2em;
-  }
-
-  @media (max-width: 350px) {
-  	#mainbody {
-  		padding: 0.4em 1em 1em 1em;
-  	}
-  }
-
-  .bodyimg, .leafornament {
-  	display: block;
-  	margin: 0 auto;
-  }
-
-  .framed {
-  	border: 5px solid #16161b;
-  	border-radius: 5px;
-  }
-
-  .oval {
-  	border-radius: 50%;
-  }
-
-  .dropcap {
-  	font-size: 2.5em; 
-  	font-family: 'astloch', cursive; 
-  	line-height: 1; 
-  	float: left; 
-  	position: relative; 
-  	bottom: -0.2em; 
-  	background-color: #16161b; 
-  	color: #fafafa; 
-  	border-radius: 5px; 
-  	margin: 0 0.15em 0 0; 
-  	padding: 0.05em 0.1em 0 0.1em;
-  }
-  </style>
 </head>
 <body>
 <div id="header">
@@ -297,15 +25,15 @@
 		<ul>
 			<li><a href="index.html">About</a></li>
 			<li><a href="404.html">Blog</a></li>
+			<li><a href="404.html">CV</a></li>
 			<li><a href="https://github.com/cbaberle">Code</a></li>
 			<li><a href="music.html">Music</a></li>
 		</ul>
 	</nav>
 </div>
 <div id="mainbody">
-<header id="title-block-header">
-<h1 class="title">Music</h1>
-</header>
+<h1 id="music">Music</h1>
+<div class="narrow">
 <p><span class="dropcap">M</span>y musical background is Classical, which tends to be the style I most often write in. However, I also have an abiding interest in electronic music production and audio synthesis, and it’s not uncommon for me to incorporate elements of various electronic genres into my music as well.</p>
 <hr />
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2048224754/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless>
@@ -326,10 +54,11 @@
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2829480644/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless>
 <a href="https://cbaberle.bandcamp.com/track/orchestral-sketch-leviathan">Orchestral Sketch - Leviathan by C.B. Aberlé</a>
 </iframe>
-<p><img src="img/leaf-ornament.png" class="leafornament" width="40" /></p>
+<p><img src="orn64.png" class="leafornament" width="40" /></p>
+</div>
 </div>
 <div id="footer">
-	<p class="footlambda">&#955</p>
+	<p>&#955</p>
 </div>
 </body>
 </html>
