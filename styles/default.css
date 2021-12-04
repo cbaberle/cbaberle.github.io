@@ -30,6 +30,7 @@ body {
 }
 
 #mainbody {
+    min-height: calc(100vh - 13.4em);
     max-width: 36em;
     margin: 0 auto;
   	padding: 0em 2em 1em 2em;
@@ -248,11 +249,6 @@ ul.task-list{list-style: none;}
 
 #blogroll {
     text-align: center;
-}
-
-#blogroll a:link, #blogroll a:visited {
-    color: #2b2d3a;
-    font-weight: 300;
 }
 
 .blogsubtitle {

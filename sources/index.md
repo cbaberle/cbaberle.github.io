@@ -10,11 +10,11 @@ pagetitle: About | C.B. Aberlé
 
 ---
 
-<span class="dropcap">I</span> am an undergraduate student at Merton College, University of Oxford, where I study Computer Science and Philosophy. The broad aim of my studies is to understand the structure of *information* and *information-processing systems* from an abstract, mathematical perspective, using concepts and methods from category theory, type theory, and mathematical logic. For those interested, more detail about the overarching themes of my work can be found in my research manifesto: [Foundations of procedural epistemology](404.html).
+<span class="dropcap">I</span> am an undergraduate student at Merton College, University of Oxford, where I study Computer Science and Philosophy. The broad aim of my studies is to understand the structure of *information* and *information-processing systems* from an abstract, mathematical perspective, using concepts and methods from category theory, type theory, and mathematical logic. For those interested, more detail about the overarching themes of my work can be found in my research manifesto: [Foundations of procedural epistemology](posts/research-manifesto.html).
 
-This website – in particular, the [blog](404.html) – serves as a repository for my thoughts on all things computational, mathematical, and philosophical (plus anything else I can be bothered to write about).
+This website – in particular, the [blog](blog.html) – serves as a repository for my thoughts on all things computational, mathematical, and philosophical (plus anything else I can be bothered to write about).
 
-In a former life, I was an aspiring composer, and I still spend much of my spare time writing music; you can find a selection of my compositions [here](https://cbaberle.com/music.html).
+In a former life, I was an aspiring composer, and I still spend much of my spare time writing music; you can find a selection of my compositions [here](music.html).
 
 ![](img/leaf-ornament.png){width=40px class="leafornament"}
 
