@@ -4,28 +4,31 @@ pagetitle: CV | C.B. Aberlé
 
 # Curriculum Vitae
 
-<h4 style="text-align:center">Last updated: December 2021</h4>
+<h4 style="text-align:center">Last updated: August 2023</h4>
 
 ### Research Interests
 
-Type theory; constructive logic & mathematics; categorical logic & topos theory; applied category theory; semantics of computation; formal epistemology; programming language theory.
+Category theory; type theory; constructive logic & mathematics; categorical logic & topos theory; homotopy type theory; applied category theory; programming language theory & semantics of programming languages; automated reasoning & formal verification.
 
 ### Education & work experience
 
-**BA Computer Science and Philosophy, Merton College, University of Oxford** (2018-2022)
+**BA Computer Science & Philosophy, Merton College, University of Oxford** (2018-2023)
 
-* Expected First class
-* Ranked 1st out of cohort of 13 Computer Science and Philosophy students in preliminary examinations
+* Graduated with First Class Honors
+* Ranked 1st in upper-level exams out of cohort of students in all undergraduate Computer Science degrees at Oxford
 * *Relevant coursework*:
-  * **Computer Science/Mathematics:** Functional Programming; Imperative Programming; Design and Analysis of Algorithms; Discrete Mathematics; Probability; Models of Computation; Algorithms and Data Structures; Logic and Proof; Principles of Programming Languages; Compilers; $\lambda$-Calculus and Types; Computational Complexity; Linear Algebra; Continuous Mathematics; Information Theory; Set Theory
+  * **Computer Science/Mathematics:** Functional Programming; Imperative Programming; Design and Analysis of Algorithms; Discrete Mathematics; Probability; Models of Computation; Algorithms and Data Structures; Logic and Proof; Principles of Programming Languages; Compilers; $\lambda$-Calculus and Types; Computational Complexity; Linear Algebra; Continuous Mathematics; Knowledge Representation & Reasoning; Set Theory
   * **Philosophy:** General Philosophy; Elements of Deductive Logic; Philosophy of Mathematics; Philosophical Logic; Philosophy of Science
 * *Academic awards*: 
-  * **University of Oxford Department of Computer Science:** Gibbs Prize for Preliminary Examinations in Computer Science and Philosophy (2018-2019)
+  * **University of Oxford Department of Computer Science:** Gibbs Prize for Preliminary Examinations in Computer Science and Philosophy, paying particular regard to Computer Science papers (2018-2019)
   * **Merton College:** Exhibition scholarship for outstanding academic performance (awarded 2019, renewed 2020)
   * **Merton College:** Postmaster scholarship in recognition of sustained academic excellence (promoted from Exhibition in 2021)
   * **Merton College:** Summer Projects Scheme undergraduate research grant (awarded 2020, see ‘research experience & grants’ below)
+  * **University of Oxford Department of Computer Science** Gibbs Prize for Computer Science and Philosophy – Parts A and B Computer Science papers (2022-2023)
+  * **University of Oxford Department of Computer Science** Gibbs Prize for Computer Science and Philosophy – Part A and B Philosophy papers (2022-2023)
+  * **University of Oxford Department of Computer Science** Gibbs Prize for Computer Science/Mathematics and Computer Science/Computer Science and Philosophy – Parts A and B best overall performance
 
-**Primary & secondary education, freelance work:** I was homeschooled part-time from the age of 6, and then full-time from the age of 10. At 14, I had completed the equivalent of a high-school education, and chose to pursue a career in music as a freelance composer. At the age of 20, however, spurred by newfound interests in programming, logic, and the foundations of mathematics and computer science, I became determined to study these subjects at a research level. Applying to universities posed a challenge given my background, as I lacked a high-school diploma and most other qualifications expected for an undergraduate application, but by 2018 I had successfully applied and been admitted to my current degree program at Oxford.
+**Primary & secondary education, freelance work:** I was homeschooled part-time from the age of 6, and then full-time from the age of 10. At 14, I had completed the equivalent of a high-school education, and chose to pursue a career in music as a freelance composer. At the age of 20, however, spurred by newfound interests in programming, logic, and the foundations of mathematics and computer science, I became determined to study these subjects at a research level. Applying to universities posed a challenge given my background, as I lacked a high-school diploma and most other qualifications expected for an undergraduate application, but by 2018 I had successfully applied and been admitted to the University of Oxford, where I studied for five years.
 
 ### Research Experience & Grants
 

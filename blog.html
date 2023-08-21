@@ -8,10 +8,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="styles/default.css" />
   <!--[if lt IE 9]>
@@ -35,11 +43,16 @@
 <h1 id="posts">Posts</h1>
 <div id="blogroll" class="narrow">
 <hr />
-<h4 id="foundations-of-procedural-epistemology-a-manifesto"><a href="posts/research-manifesto.html"><span class="dropcap">F</span>oundations of procedural epistemology<br> <span class="blogsubtitle">A manifesto</span></a></h4>
+<h4 id="foundations-of-procedural-epistemology-a-manifesto"><a
+href="posts/research-manifesto.html"><span
+class="dropcap">F</span>oundations of Procedural Epistemology<br> <span
+class="blogsubtitle">A Manifesto</span></a></h4>
 <p>December 3rd, 2021</p>
-<p>A brief outline of the aims, motivation, and methods of my research into the abstract structure of information and information-processing systems.</p>
+<p>A brief outline of the aims, motivation, and methods of my research
+into the abstract structure of logic and computation.</p>
 <p><a href="posts/research-manifesto.html">Read here ↝</a></p>
-<p><img src="img/star-ornament.png" class="leafornament" width="40" /></p>
+<p><img src="img/star-ornament.png" class="leafornament"
+width="40" /></p>
 </div>
 </div>
 <div id="footer">

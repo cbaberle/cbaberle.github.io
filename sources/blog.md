@@ -8,11 +8,11 @@ pagetitle: Blog | C.B. Aberlé
 
 ---
 
-#### [<span class="dropcap">F</span>oundations of procedural epistemology<br> <span class="blogsubtitle">A manifesto</span>](posts/research-manifesto.html)
+#### [<span class="dropcap">F</span>oundations of Procedural Epistemology<br> <span class="blogsubtitle">A Manifesto</span>](posts/research-manifesto.html)
 
 December 3rd, 2021
 
-A brief outline of the aims, motivation, and methods of my research into the abstract structure of information and information-processing systems. 
+A brief outline of the aims, motivation, and methods of my research into the abstract structure of logic and computation. 
 
 [Read here &#8605;](posts/research-manifesto.html)
 

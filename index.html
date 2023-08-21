@@ -8,10 +8,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="styles/default.css" />
   <!--[if lt IE 9]>
@@ -32,16 +40,38 @@
 	</nav>
 </div>
 <div id="mainbody">
-<p><img src="img/profile-picture2.jpg" class="bodyimg framed oval" width="240" /></p>
+<p><img src="img/profile-picture2.jpg" class="bodyimg framed oval"
+width="240" /></p>
 <div class="narrow">
-<h3 style="text-align:center">
-Tinkering with the mathematical foundations of computation and procedural knowledge
+<h3 style="text-align:center; margin-top:0.65em; margin-bottom:0.65em">
+Tinkering with the mathematical foundations of logic and computation
 </h3>
 <hr />
-<p><span class="dropcap">I</span> am an undergraduate student at Merton College, University of Oxford, where I study Computer Science and Philosophy. The broad aim of my studies is to understand the structure of <em>information</em> and <em>information-processing systems</em> from an abstract, mathematical perspective, using concepts and methods from category theory, type theory, and mathematical logic. For those interested, more detail about the overarching themes of my work can be found in my research manifesto: <a href="posts/research-manifesto.html">Foundations of procedural epistemology</a>.</p>
-<p>This website – in particular, the <a href="blog.html">blog</a> – serves as a repository for my thoughts on all things computational, mathematical, and philosophical (plus anything else I can be bothered to write about).</p>
-<p>In a former life, I was an aspiring composer, and I still spend much of my spare time writing music; you can find a selection of my compositions <a href="music.html">here</a>.</p>
-<p><img src="img/leaf-ornament.png" class="leafornament" width="40" /></p>
+<p><span class="dropcap">I</span> am a graduate student in the Computer
+Science Department at Carnegie Mellon University, where I am studying
+for a PhD in Pure and Applied Logic, with a focus on Programming
+Languages and Formal Methods. My undergraduate studies were at Merton
+College, University of Oxford, where I obtained a BA in Computer Science
+and Philosophy.</p>
+<p>I am principally interested in the design and analysis of
+formal/computational systems – i.e. programming languages, logical
+frameworks, automated theorem provers, etc. – that enable and enhance
+the production and organization of human knowledge and expression.
+Toward this end, the central aim of my research is to develop a greater
+understanding of the abstract, mathematical principles that underlie
+such systems, using concepts and methods from category theory, type
+theory, and mathematical logic. For those interested, more detail about
+the overarching themes of my work can be found <a
+href="posts/research-manifesto.html">here</a>.</p>
+<p>This website – in particular, the <a href="blog.html">blog</a> –
+serves as a repository for my thoughts on all things computational,
+mathematical, and philosophical (plus anything else I can be bothered to
+write about).</p>
+<p>In a former life, I was an aspiring composer, and I still spend much
+of my spare time writing music; you can find a selection of my
+compositions <a href="music.html">here</a>.</p>
+<p><img src="img/leaf-ornament.png" class="leafornament"
+width="40" /></p>
 </div>
 </div>
 <div id="footer">

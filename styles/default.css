@@ -90,8 +90,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.4em;
-    font-family: 'texturina', serif;
+    font-family: 'crimson pro', serif;
     font-weight: 300;
 }
 
@@ -110,13 +109,21 @@ h1, h2 {
 }
 
 #mainbody h1 {
-    font-size: 2em;
+    font-size: 2.5em;
     line-height: 4rem;
 }
 
 #mainbody h2 {
-    font-size: 1.65em;
+    font-size: 2em;
     line-height: 2.5rem;
+}
+
+#mainbody h3 {
+    font-size: 1.5em;
+}
+
+#mainbody h4 {
+    font-size: 1.1em;
 }
 
 ol, ul {
@@ -150,9 +157,9 @@ li > ol, li > ul {
 }
 
 blockquote {
-    margin: 1em 0 1em 1.7em;
+    margin: 1em 1.7em 1em 1.7em;
     padding-left: 1em;
-    border-left: 2px solid #e6e6e6;
+    border-left: none;
     color: #606060;
 }
 code {
