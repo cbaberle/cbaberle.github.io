@@ -4,13 +4,19 @@ pagetitle: CV | C.B. Aberlé
 
 # Curriculum Vitae
 
-<h4 style="text-align:center">Last updated: August 2023</h4>
+<h4 style="text-align:center">Last updated: January 2024</h4>
 
 ### Research Interests
 
-Category theory; type theory; constructive logic & mathematics; categorical logic & topos theory; homotopy type theory; applied category theory; programming language theory & semantics of programming languages; automated reasoning & formal verification.
+Category theory; type theory; constructive logic & mathematics; categorical logic & topos theory; homotopy type theory; applied category theory; programming language theory & semantics; automated reasoning & formal verification.
 
 ### Education & work experience
+
+**PhD Pure & Applied Logic, Computer Science Department, Carnegie Mellon University (2023-present)**
+
+* Expected completion 2028
+* *Relevant coursework*:
+  * Substructural Logics; Types and Programming Languages; Categorical Logic
 
 **BA Computer Science & Philosophy, Merton College, University of Oxford** (2018-2023)
 
@@ -31,6 +37,8 @@ Category theory; type theory; constructive logic & mathematics; categorical logi
 **Primary & secondary education, freelance work:** I was homeschooled part-time from the age of 6, and then full-time from the age of 10. At 14, I had completed the equivalent of a high-school education, and chose to pursue a career in music as a freelance composer. At the age of 20, however, spurred by newfound interests in programming, logic, and the foundations of mathematics and computer science, I became determined to study these subjects at a research level. Applying to universities posed a challenge given my background, as I lacked a high-school diploma and most other qualifications expected for an undergraduate application, but by 2018 I had successfully applied and been admitted to the University of Oxford, where I studied for five years.
 
 ### Research Experience & Grants
+
+**Substructural Dependent Type Theory:** I am currently involved in research on integrating dependent types into substructural type theories such as linear logic, etc. Recently, I have written a paper on this topic, which has been submitted to [LICS](https://lics.siglog.org/lics24/).
 
 **Undergraduate research project:** Church Encodings in Higher-Dimensional Type Theory – Toward a Theory of Abstraction (2020)
 

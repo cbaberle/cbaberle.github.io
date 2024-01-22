@@ -2,7 +2,7 @@
 pagetitle: About | C.B. Aberlé
 ---
 
-![](img/profile-picture2.jpg){width=240px class="bodyimg framed oval"}
+![](img/profile-picture4.jpg){width=240px class="bodyimg framed oval"}
 
 <div class="narrow">
 
@@ -10,7 +10,7 @@ pagetitle: About | C.B. Aberlé
 
 ---
 
-<span class="dropcap">I</span> am a graduate student in the Computer Science Department at Carnegie Mellon University, where I am studying for a PhD in Pure and Applied Logic, with a focus on Programming Languages and Formal Methods. My undergraduate studies were at Merton College, University of Oxford, where I obtained a BA in Computer Science and Philosophy.
+<span class="dropcap">I</span> am a graduate student in the Computer Science Department at Carnegie Mellon University, where I am studying for a PhD in Pure and Applied Logic, advised by Frank Pfenning. My undergraduate studies were at Merton College, University of Oxford, where I obtained a BA in Computer Science and Philosophy.
 
 I am principally interested in the design and analysis of formal/computational systems – i.e. programming languages, logical frameworks, automated theorem provers, etc. – that enable and enhance the production and organization of human knowledge and expression. Toward this end, the central aim of my research is to develop a greater understanding of the abstract, mathematical principles that underlie such systems, using concepts and methods from category theory, type theory, and mathematical logic. For those interested, more detail about the overarching themes of my work can be found [here](posts/research-manifesto.html).
 
