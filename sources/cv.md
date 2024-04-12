@@ -12,6 +12,8 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 
 ### Publications
 
+**"Parametricity via Cohesion,"** submitted to MFPS 2024 (awaiting decision), preprint available on arXiv: [https://arxiv.org/abs/2404.03825](https://arxiv.org/abs/2404.03825)
+
 **"Foundations of Substructural Dependent Type Theory,"** submitted to LICS 2024 (awaiting decision), preprint available on arXiv: [https://arxiv.org/abs/2401.15258](https://arxiv.org/abs/2401.15258)
 
 ### Education & work experience
