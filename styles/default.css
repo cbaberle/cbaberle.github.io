@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Astloch&family=Crimson+Pro:ital,wght@0,200;0,300;0,500;0,700;1,200;1,300;1,500;1,700&family=Fira+Code:wght@300;700&family=Texturina:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&family=Fira+Code:wght@300..700&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
 
 html {
     line-height: 1.5;
-    font-family: 'crimson pro', serif;
-    font-size: 20px;
-    font-weight: 200;
+    font-family: 'spectral', serif;
+    font-size: 18px;
+    font-weight: 300;
     background-color: #16161b;
     color: #fafafa;
 }
@@ -90,8 +90,8 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'crimson pro', serif;
-    font-weight: 300;
+    font-family: 'spectral', serif;
+    font-weight: 400;
 }
 
 h1, h2 {
@@ -259,7 +259,7 @@ ul.task-list{list-style: none;}
 }
 
 .blogsubtitle {
-    font-family: 'crimson pro', serif;
+    font-family: 'spectral', serif;
 }
 
 .footnotes {
@@ -268,7 +268,7 @@ ul.task-list{list-style: none;}
 }
 
 .narrow {
-    max-width: 27em;
+    max-width: 30em;
     margin: 0 auto;
 }
 
