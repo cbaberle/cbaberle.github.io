@@ -27,6 +27,7 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 ### Research & Work Experience & Grants
 
 **Topos Institute Summer 2024 Research Associate:**
+
   * June-August 2024
   * Worked with David Spivak on Polynomial Functors and Natural Models of Dependent Type Theory
   * Topos Institute Blog Post on Summer 2024 Research Associates available at: [https://topos.site/blog/2024-07-29-summer-research-associates-2024/](https://topos.site/blog/2024-07-29-summer-research-associates-2024/)
