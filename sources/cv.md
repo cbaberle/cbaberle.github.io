@@ -12,7 +12,7 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 
 ### Publications
 
-**Polynomial Universes & Dependent Types,** joint work with David Spivak.
+**Polynomial Universes & Dependent Types,** joint work with David Spivak. Preprint available on arXiv: [http://www.arxiv.org/abs/2409.19176](http://www.arxiv.org/abs/2409.19176)
 
 **"Parametricity via Cohesion,"** accepted to MFPS 2024, proceedings to appear in ENTICS, preprint available on arXiv: [https://arxiv.org/abs/2404.03825](https://arxiv.org/abs/2404.03825)
 
