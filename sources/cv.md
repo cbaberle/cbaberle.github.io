@@ -20,6 +20,8 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 
 ### Talks
 
+**Fundamental Theorems for Free:** talk given at the weekly CMU PL Lunch: [[slides](files/Fundamental_Theorems_for_Free.pdf)]
+
 **All Concepts are Essentially Algebraic:** talk given at the Topos Institute Berkeley Seminar. Video available at: [https://www.youtube.com/watch?v=RmiTOa4b0bA](https://www.youtube.com/watch?v=RmiTOa4b0bA)
 
 **Parametricity via Cohesion:** presentation of paper of the same name at MFPS 2024. Video available at: [https://www.youtube.com/watch?v=kjYhFDVRkUA](https://www.youtube.com/watch?v=kjYhFDVRkUA)
