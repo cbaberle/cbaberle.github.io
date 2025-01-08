@@ -4,15 +4,21 @@ pagetitle: CV | C.B. Aberlé
 
 # Curriculum Vitae
 
-<h4 style="text-align:center">Last updated: September 2024</h4>
+<h4 style="text-align:center">Last updated: January 2025</h4>
 
 ### Research Interests
 
 Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical Logic & Topos Theory | Homotopy Type Theory | Applied Category Theory | Programming Language Theory | Automated Reasoning & Formal Verification
 
+### Software
+
+**Synthetic Agda:** an extension of the Agda programming language and proof assistant for working in the internal type-theoretic language of any Grothendieck $\infty$-topos: [https://hyrax.cbaberle.com/library/synthetic-agda.html](https://hyrax.cbaberle.com/library/synthetic-agda.html)
+
+**The Hyrax Project:** an Agda library/personal wiki/digital garden focusing on synthetic mathematics, using Synthetic Agda: [https://hyrax.cbaberle.com/index.html](https://hyrax.cbaberle.com/index.html)
+
 ### Publications
 
-**Polynomial Universes & Dependent Types,** joint work with David Spivak. Preprint available on arXiv: [http://www.arxiv.org/abs/2409.19176](http://www.arxiv.org/abs/2409.19176)
+**"Polynomial Universes & Dependent Types,"** joint work with David Spivak. Preprint available on arXiv: [http://www.arxiv.org/abs/2409.19176](http://www.arxiv.org/abs/2409.19176)
 
 **"Parametricity via Cohesion,"** accepted to MFPS 2024, proceedings to appear in ENTICS, preprint available on arXiv: [https://arxiv.org/abs/2404.03825](https://arxiv.org/abs/2404.03825)
 
@@ -20,11 +26,11 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 
 ### Talks
 
-**Fundamental Theorems for Free:** talk given at the weekly CMU PL Lunch: [[slides](files/Fundamental_Theorems_for_Free.pdf)]
+**"Fundamental Theorems for Free,"** talk given at the weekly CMU PL Lunch: [[slides](files/Fundamental_Theorems_for_Free.pdf)]
 
-**All Concepts are Essentially Algebraic:** talk given at the Topos Institute Berkeley Seminar. Video available at: [https://www.youtube.com/watch?v=RmiTOa4b0bA](https://www.youtube.com/watch?v=RmiTOa4b0bA)
+**"All Concepts are Essentially Algebraic,"** talk given at the Topos Institute Berkeley Seminar. Video available at: [https://www.youtube.com/watch?v=RmiTOa4b0bA](https://www.youtube.com/watch?v=RmiTOa4b0bA)
 
-**Parametricity via Cohesion:** presentation of paper of the same name at MFPS 2024. Video available at: [https://www.youtube.com/watch?v=kjYhFDVRkUA](https://www.youtube.com/watch?v=kjYhFDVRkUA)
+**"Parametricity via Cohesion:,"** presentation of paper of the same name at MFPS 2024. Video available at: [https://www.youtube.com/watch?v=kjYhFDVRkUA](https://www.youtube.com/watch?v=kjYhFDVRkUA)
 
 ### Research & Work Experience & Grants
 
