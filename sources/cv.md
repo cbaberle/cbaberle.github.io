@@ -26,7 +26,11 @@ Category Theory | Type Theory | Constructive Logic & Mathematics | Categorical L
 
 ### Talks
 
-**"Fundamental Theorems for Free,"** talk given at the weekly CMU PL Lunch: [[slides](files/Fundamental_Theorems_for_Free.pdf)]
+**"Fundamental Theorems for Free,"** talk given at the weekly CMU PL Lunch, and on a separate occasion at the CMU HoTT Seminar: 
+
+* [[slides (PLunch)](files/Fundamental_Theorems_for_Free.pdf)]
+* [[slides (HoTT)](files/Fundamental_Theorems_for_Free_HoTT.pdf)]
+* [[video](https://youtu.be/wzBnOd00hcg)]
 
 **"All Concepts are Essentially Algebraic,"** talk given at the Topos Institute Berkeley Seminar. Video available at: [https://www.youtube.com/watch?v=RmiTOa4b0bA](https://www.youtube.com/watch?v=RmiTOa4b0bA)
 
