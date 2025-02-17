@@ -10,6 +10,14 @@ pagetitle: Music | C.B. Aberlé
 
 ---
 
+<h3 style="text-align:center;">My latest album, "Two Loves" is now available on bandcamp!</h3>
+
+<iframe style="border: 0; width: 350px; height: 470px; display: block; margin: 1em auto;" src="https://bandcamp.com/EmbeddedPlayer/album=292325099/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/album/two-loves">Two Loves by Corinthia Beatrix Aberlé</a></iframe>
+
+---
+
+<h3 style="text-align:center;">Miscellaneous tracks</h3>
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2048224754/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/track/nocturne-in-c-minor-no-2">Nocturne in C# minor, no. 2 by C.B. Aberlé</a></iframe>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3337701316/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/track/nocturne-in-c-minor-no-1">Nocturne in C# minor, no. 1 by C.B. Aberlé</a></iframe>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4136068678/size=large/bgcol=fafafa/linkcol=2b5aba/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cbaberle.bandcamp.com/track/scherzo-in-c-minor-infernal-dance">Scherzo in C# minor - Infernal Dance by C.B. Aberlé</a></iframe>
